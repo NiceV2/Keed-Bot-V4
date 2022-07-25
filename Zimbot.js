@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 V4 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -8,7 +8,7 @@
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
 //▮reinhardtuna@mail.uk
 //▮WHATSAPP US : +44 7441 437150
-//▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
+//▮YOUTUBE CHANNELL: https://youtube.com/c/NICE THE KEED OFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 //
@@ -16,7 +16,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓
 //┃I WROTE THIS SCRIPT BY MYSELF THIS SCRIPT IS FOR EVERYONE DONT SELL IT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
@@ -66,7 +66,7 @@ const { isLimit, limitAdd, getLimit, giveLimit, addBalance, kurangBalance, getBa
 //xp and leveling database⧈⧈⧈⧈
 
 //message type
-/* let drips = fs.readFileSync('./Zimbot/drips.jpg') 
+/* let drips = fs.readFileSync('./Zimbot/Keed1.jpg') 
 */
 
 //database
@@ -172,10 +172,10 @@ return dDisplay + hDisplay + mDisplay + sDisplay;
 
 
 const reply = (teks) => {
-    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ZIM BOT V4",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
+    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, detectLinks: true,body: "NICE THE KEED OFC", thumbnail: fs.readFileSync('./Keed1.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
 }
 const replay = (teks) => {
-    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "ZIM BOT V4",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "DRIPS OFC", thumbnail: fs.readFileSync('./drips.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
+    ZimBotInc.sendMessage(m.chat, {text: teks, contextInfo: {"externalAdReply": {title: "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒",mediaType: 3, renderLargerThumbnail: false, showAdAttribution: true, body: "NICE THE KEED OFC", thumbnail: fs.readFileSync('./Keed1.jpg'),sourceUrl: ("https://youtu.be/KNu-gr2h7bo")}}})
 }
 
 const drip =  {
@@ -188,13 +188,13 @@ participant : '0@s.whatsapp.net'
     isForwarded: false, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
  // Bagian ini sesuka kalian berkreasi :'v
 showAdAttribution: true,
-title: "ZIM BOT V4",
+title: "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒",
 body: "GIVE IT A STAR",
 mediaType: "VIDEO",
-mediaUrl: `https://githb.com/zim-bot/zimbot-v4`,
-description: 'DRIPS OFC',
+mediaUrl: `https://githb.com/zim-bot/KEED BOT V4`,
+description: 'NICE THE KEED OFC',
 previewType: "PHOTO",
-thumbnail: fs.readFileSync('./drips.jpg'),
+thumbnail: fs.readFileSync('./Keed1.jpg'),
 sourceUrl: "",
 detectLinks: false,
     }}
@@ -209,8 +209,8 @@ participant : '0@s.whatsapp.net'
   message: {
   documentMessage: {
 showAdAttribution: true,
-  title: "ZIM BOT V4", 
-  jpegThumbnail: fs.readFileSync('./drips.jpg')
+  title: "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒", 
+  jpegThumbnail: fs.readFileSync('./Keed1.jpg')
 }
 }
  }
@@ -224,9 +224,9 @@ showAdAttribution: true,
                },
     message: { 
        "extendedTextMessage": {
-                "text":'SUB DRIPS OFC',
-                "title": 'ZIM BOT-V4',
-                'jpegThumbnail': fs.readFileSync('./drips.jpg')
+                "text":'SUB NICE THE KEED OFC',
+                "title": '𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒',
+                'jpegThumbnail': fs.readFileSync('./Keed1.jpg')
              }
            } 
           }
@@ -397,7 +397,7 @@ if (global.available) { if (m.chat) { ZimBotInc.sendPresenceUpdate('available', 
 }
 if (global.unavailable) { if (m.chat) { ZimBotInc.sendPresenceUpdate('unavailable', m.chat) }
 }
-//RPG FUNCTION BY DRIPS
+//RPG FUNCTION BY 𝐍𝐈𝐂𝐄 ??𝐇𝐄 𝐊𝐄𝐄𝐃
 function randomNomor(min, max = null) {
   if (max !== null) {
   min = Math.ceil(min);
@@ -454,7 +454,7 @@ async function sendButLoc(from) {
 ]
 bufu = await getBuffer(picak+'RPG GAMES')
 var DADYDR = `
- ┌───〔 *_◉ᴀʙᴏᴜᴛ◉_* 〕
+ ┌───〔 *_◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉_* 〕
  ┊ *Nᴀᴍᴇ:* ${pushname}
  ┊ *Rᴀɴᴋ:* ${role}
  ┊ *Sᴛᴀᴛᴜꜱ:* ${elit}
@@ -500,7 +500,7 @@ var DADYDR = `
 
  ┌───〔 *_ᴛʜᴀɴᴋs ᴛᴏ_* 〕
  ┊ʏᴏᴜʀ ᴄʀᴇᴅɪᴛꜱ
- └───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+ └───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
  `
 let message = await prepareWAMessageMedia({ image: bufu, jpegThumbnail:bufu }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -508,11 +508,11 @@ templateMessage: {
 hydratedTemplate: {
 imageMessage: message.imageMessage,
 hydratedContentText: DADYDR,
-hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`,
 hydratedButtons:  [{        
     "urlButton": {
       "displayText": "SUBSCRIBE",
-      "url": "https://www.youtube.com/c/DRIPSOFC"
+      "url": "https://www.youtube.com/c/NICE THE KEED OFC"
     }
 }, {
 quickReplyButton: {
@@ -561,11 +561,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
   hydratedTemplate: {
   imageMessage: message.imageMessage,
   hydratedContentText: hg,
-  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+  hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`,
   hydratedButtons:  [{        
       "urlButton": {
         "displayText": "SUBSCRIBE",
-        "url": "https://www.youtube.com/c/DRIPSOFC"
+        "url": "https://www.youtube.com/c/NICE THE KEED OFC"
       }
   }, {
   quickReplyButton: {
@@ -610,11 +610,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
           hydratedTemplate: {
           imageMessage: message.imageMessage,
           hydratedContentText: hg,
-          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+          hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`,
           hydratedButtons:  [{        
               "urlButton": {
                 "displayText": "SUBSCRIBE",
-                "url": "https://www.youtube.com/c/DRIPSOFC"
+                "url": "https://www.youtube.com/c/NICE THE KEED OFC"
               }
           }, {
           quickReplyButton: {
@@ -659,11 +659,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
                 }
             }, {
             quickReplyButton: {
@@ -708,11 +708,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
                 }
             }, {
             quickReplyButton: {
@@ -762,7 +762,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://www.youtube.com/c/DRIPSOFC"
+              "url": "https://www.youtube.com/c/NICE THE KEED OFC"
               }
             }, {
               quickReplyButton: {
@@ -813,7 +813,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
               hydratedButtons: [{        
               "urlButton": {
               "displayText": "SUBSCRIBE",
-              "url": "https://www.youtube.com/c/DRIPSOFC"
+              "url": "https://www.youtube.com/c/NICE THE KEED OFC"
               }
             }, {
               quickReplyButton: {
@@ -855,11 +855,11 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             hydratedTemplate: {
             imageMessage: message.imageMessage,
             hydratedContentText: hg,
-            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`,
+            hydratedFooterText: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`,
             hydratedButtons:  [{        
                 "urlButton": {
                   "displayText": "SUBSCRIBE",
-                  "url": "https://www.youtube.com/c/DRIPSOFC"
+                  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
                 }
             }, {
             quickReplyButton: {
@@ -885,7 +885,7 @@ ZimBotInc.relayMessage(m.chat, template.message, { messageId: template.key.id })
             emoji.get(satu)
             .then(emoji => {
             const buttons = [{buttonId: "y", buttonText: {displayText:satu}, type: 1}]
-            const buttonMessage = {image: {url: emoji.images[dua].url},caption: "ZIM BOT V4",footerText: 'Loading...',buttons: buttons,headerType: 4}
+            const buttonMessage = {image: {url: emoji.images[dua].url},caption: "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒",footerText: 'Loading...',buttons: buttons,headerType: 4}
             ZimBotInc.sendMessage(from, buttonMessage, {quoted:m})
             })
             } catch (e) {
@@ -900,7 +900,7 @@ var _0x33fa3e=_0x465d;function _0x2a31(){var _0x124451=['reply','1109740LfSEyY',
 if (db.chats[m.chat].antilink) {
 if (budy.includes('https://chat.whatsapp.com/')) {
 if (!m.key.fromMe) {
-reply('[ 𝗭𝗜𝗠 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 ]\n𝗟𝗶𝗻𝗸 𝗻𝗼𝘁 𝗮𝗹𝗹𝗼𝘄𝗲𝗱 𝗵𝗲𝗿𝗲, 𝗢𝗞𝘆?..,\n𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗜𝗺 𝗸𝗶𝗰𝗸𝗶𝗻𝗴 𝘂𝗿 𝗮𝘀𝘀 𝗻𝗼𝘄👋🏻')
+reply('[ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 ]\n𝗟𝗶𝗻𝗸 𝗻𝗼𝘁 𝗮𝗹𝗹𝗼𝘄𝗲𝗱 𝗵𝗲𝗿𝗲, 𝗢𝗞𝘆?..,\n𝗚𝗼𝗼𝗱 𝗯𝘆𝗲 𝗜𝗺 𝗸𝗶𝗰𝗸𝗶𝗻𝗴 𝘂𝗿 𝗮𝘀𝘀 𝗻𝗼𝘄👋🏻')
 let sianj = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [sianj], 'remove').then((res) => reply(jsonformat(res))).catch((err) => reply(jsonformat(err)))
 }
@@ -908,8 +908,8 @@ await ZimBotInc.groupParticipantsUpdate(m.chat, [sianj], 'remove').then((res) =>
 }
 if (db.chats[m.chat].wame) {
 if (budy.match(`wa.me/`)) {
-reply(`「 𝗭𝗜𝗠 𝗕𝗢𝗧 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 」\n\n𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗻𝗱 𝘄𝗮.𝗺𝗲 𝗹𝗶𝗻𝗸, 𝗻𝗼 𝘁𝗶𝗺𝗲 𝘁𝗼 𝘄𝗮𝘀𝘁𝗲 𝘂𝗮 𝗼𝘂𝘁!`)
-if (!isBotAdmins) return reply(`𝘡𝘪𝘮 𝘉𝘰𝘵 𝘮𝘶𝘴𝘵 𝘣𝘦 𝘢𝘥𝘮𝘪𝘯 𝘧𝘪𝘳𝘴𝘵😚`)
+reply(`「 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝗔𝗡𝗧𝗜𝗟𝗜𝗡𝗞 」\n\n𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗻𝗱 𝘄𝗮.𝗺𝗲 𝗹𝗶𝗻𝗸, 𝗻𝗼 𝘁𝗶𝗺𝗲 𝘁𝗼 𝘄𝗮𝘀𝘁𝗲 𝘂𝗮 𝗼𝘂𝘁!`)
+if (!isBotAdmins) return reply(`𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝘮𝘶𝘴𝘵 𝘣𝘦 𝘢𝘥𝘮𝘪𝘯 𝘧𝘪𝘳𝘴𝘵😚`)
 let gclink = (`https://wa.me/`)
 let isLinkThisGc = new RegExp(gclink, 'i')
 let isgclink = isLinkThisGc.test(m.text)
@@ -922,13 +922,13 @@ ZimBotInc.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 if (db.chats[m.chat].antiinstagram) {
     if (budy.includes("https://www.instagram.com/")){
  if (!isBotAdmins) return
- zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admn okay*`
+ zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n*you are admn okay*`
  if (isAdmins) return reply(zimbotv3)
  if (m.key.fromMe) return reply(zimbotv3)
  if (isCreator) return reply(zimbotv3)
  kice = m.sender
  await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
- ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no ig links here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no ig links here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
  }
 }
 
@@ -941,7 +941,7 @@ if (isCreator) return reply(`*𝘖𝘰𝘰𝘰𝘩 𝘴𝘩𝘪𝘵😩 𝘴𝘰
 reply('*ANTI STICKER*\n\n*NO STICKERS  ALLOWED HERE OKAY GOODBYE*')
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no stickers here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no stickers here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 }
@@ -955,7 +955,7 @@ if (isCreator) return reply(`*𝘖𝘰𝘰𝘰𝘩 𝘴𝘩𝘪𝘵😩 𝘴𝘰
 reply('*ANTI VOICE NOTE*\n\n*NO VOICE ALLOWED HERE  OKAY GOODBYE*')
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no voice note here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no voice note here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 }
@@ -969,7 +969,7 @@ if (isCreator) return reply(`*𝘖𝘰𝘰𝘰𝘩 𝘴𝘩𝘪𝘵😩 𝘴𝘰
 reply('*ANTI VIDEO*\n\n*NO VIDEOS ALLOWED HERE  OKAY GOODBYE*')
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no videos here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no videos here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 }
@@ -983,7 +983,7 @@ if (isCreator) return reply(`*𝘖𝘰𝘰𝘰𝘩 𝘴𝘩𝘪𝘵😩 𝘴𝘰
 reply('*ANTI PHOTOS*\n\n*NO PHOTOS ALLOWED HERE  OKAY GOODBYE*')
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no photos here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no photos here okay, now get out* `, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 }
@@ -991,72 +991,72 @@ ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split
 if (db.chats[m.chat].antifb) {
 if(budy.includes("https://facebook.com/")){
 if (!isBotAdmins) return
-zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admin okay*`
+zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n*you are admin okay*`
 if (isAdmins) return reply(zimbotv3)
 if (m.key.fromMe) return reply(zimbotv3)
 if (isCreator) return reply(zimbotv3)
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
- ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no fb links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no fb links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 } 
  }
 
  if (db.chats[m.chat].antitelegram) {
  if (budy.includes("https://t.me/")){
  if (!isBotAdmins) return
- zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n*you are admin okay*`
+ zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n*you are admin okay*`
  if (isAdmins) return reply(zimbotv3)
  if (m.key.fromMe) return reply(zimbotv3)
  if (isCreator) return reply(zimbotv3)
  kice = m.sender
  await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
- ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no telegram links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no telegram links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 } 
  }
 
 if (db.chats[m.chat].antitiktok) {
 if (budy.includes("https://www.tiktok.com/")){
 if (!isBotAdmins) return
-zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are bot admin okay*`
+zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n*you are bot admin okay*`
 if (isAdmins) return m.reply(zimbotv3)
 if (m.key.fromMe) return m.reply(zimbotv3)
 if (isCreator) return m.reply(zimbotv3)
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no tiktok links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no tiktok links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 
 if (db.chats[m.chat].antitwitter) {
 if (budy.includes("https://twitter.com/")){
 if (!isBotAdmins) return
-zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n *you are bot admin okay*`
+zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n *you are bot admin okay*`
 if (isAdmins) return reply(zimbotv3)
 if (m.key.fromMe) return reply(zimbotv3)
 if (isCreator) return reply(zimbotv3)
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no twittwer link here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no twittwer link here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 
 if (db.chats[m.chat].antilinkall) {
 if (budy.includes("http")){ 
 if (!isBotAdmins) return
-zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n *you are bot admin okay*`
+zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n *you are bot admin okay*`
 if (isAdmins) return reply(zimbotv3)
 if (m.key.fromMe) return reply(zimbotv3)
 if (isCreator) return reply(zimbotv3)
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(m.chat, {text:`*▊▊▊DETECTED▊▊▊*\n@${kice.split("@")[0]} *I said dont send any links okay*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(m.chat, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n@${kice.split("@")[0]} *I said dont send any links okay*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 
 
 if (m.mtype == 'viewOnceMessage') {
 if (!db.chats[m.chat].antionce) return
-teks = `*▊▊▊DETECTED ONCE▊▊▊*
+teks = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃 ONCE▊▊▊*
 
 `
 ZimBotInc.sendTextWithMentions(m.chat, teks, m)
@@ -1069,19 +1069,19 @@ m.copyNForward(m.chat, true, { readViewOnce: true }).catch(_ => reply(`*I opened
 if (db.chats[m.chat].antilinkyt) {
 if (budy.includes("https://youtube.com/")){ 
 if (!isBotAdmins) return
-zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n*you are admin okay*`
+zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n*you are admin okay*`
 if (isAdmins) return reply(zimbotv3)
 if (m.key.fromMe) return reply(zimbotv3)
 if (isCreator) return reply(zimbotv3)
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no yt links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no yt links here okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 } 
 }
 
 if (db.chats[m.chat].antilink) {
 if (budy.match(`chat.whatsapp.com`)) {
-reply(`*▊▊▊ ANTILINK ▊▊▊*\n\n*You have been detected sending a group link, sorry you will be kicked!*`)
+reply(`*▊▊▊ ANTILINK ▊▊▊*\n\n*You have been 𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃 sending a group link, sorry you will be kicked!*`)
 if (!isBotAdmins) return reply(`*Bbot must be admin okay*`)
 let gclink = (`https://chat.whatsapp.com/`+await ZimBotInc.groupInviteCode(m.chat))
 let isLinkThisGc = new RegExp(gclink, 'i')
@@ -1097,7 +1097,7 @@ if (!m.isGroup) return
 if (!isAntiVirtex) return
 if (groupAdmins) return
 reply('Mark as read\n'.repeat(300))
-reply(`*▊▊▊DETECTED▊▊▊*\n\n*You sent a virtex, sorry you will be kicked from the group*`)
+reply(`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n*You sent a virtex, sorry you will be kicked from the group*`)
 console.log(('[KICK]', 'red'), color('Received a text virus!', 'yellow'))
 ZimBotInc.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 }  
@@ -1106,13 +1106,13 @@ ZimBotInc.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 if (db.chats[m.chat].antiwame) {
 if (budy.includes(`http://wa.me`)) {
 if (!isBotAdmins) return
-zimbotv3 = `*▊▊▊DETECTED▊▊▊*\n\n*you are admin okay*`
+zimbotv3 = `*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n*you are admin okay*`
 if (isAdmins) return reply(zimbotv3)
 if (m.key.fromMe) return reply(zimbotv3)
 if (isCreator) return reply(zimbotv3)
 kice = m.sender
 await ZimBotInc.groupParticipantsUpdate(m.chat, [kice], 'remove')
-ZimBotInc.sendMessage(from, {text:`*▊▊▊DETECTED▊▊▊*\n\n@${kice.split("@")[0]} *I said no links okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
+ZimBotInc.sendMessage(from, {text:`*▊▊▊𝐃𝐄𝐓𝐄𝐂𝐓𝐄𝐃▊▊▊*\n\n@${kice.split("@")[0]} *I said no links okay, now get out*`, contextInfo:{mentionedJid:[kice]}}, {quoted:m})
 }
 }
 
@@ -1152,9 +1152,9 @@ ZimBotInc.sendMessage(m.chat, {text:`*▊▊▊ ANTILINK ▊▊▊*\n\n@${kice.s
 if (db.settings[botNumber].grouponly) {
   if (!m.isGroup) {
     let a = 'a'
-    if (!isCreator) throw `*INBOX NOT ALLOWED*`
+    if (!isCreator) throw `*𝐛𝐨𝐭 𝐨𝐧𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐢𝐧 𝐠𝐫𝐨𝐮𝐩*`
     if (budy === a) 
-    throw  '*inbox not allowed*'
+    throw  '*𝐛𝐨𝐭 𝐨𝐧𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐢𝐧 𝐠𝐫𝐨𝐮𝐩*'
    
     }
   }
@@ -1177,7 +1177,7 @@ setInterval(() => {
 //But5Loc
 var nextMinutes = Math.random() * 300 + 30;
 setTimeout(function(){
-  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*ZIM BOT INC ANNOUNCEMENT:* *SUBSCRIBE TO DRIPS OFC*\n\n*YOUTUBE:* https://www.youtube.com/c/DRIPSOFC\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"ZIM BOT V4",body:"SUBSCRIBE DRIPS OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./drips.jpg`) ,mediaUrl:`https://youtu.be/KNu-gr2h7bo`, sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
+  ZimBotInc.sendMessage(ZimBotInc.user.id, {text: `*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC ANNOUNCEMENT:* *SUBSCRIBE TO NICE THE KEED OFC*\n\n*YOUTUBE:* https://www.youtube.com/c/NICE THE KEED OFC\n\n*NEW FEATURES COMING SOON SO STAY TUNED*\n\n*FEEL FREE TO BRING IDEAS OF THE FEATURES ON THE TABLE*\n\n*IF YOU WANT TO CONTRUBUTE FORK THE REPO, MAKE CHANGES PUSH YOUR CHANGES TO THE ORIGIN BRANCH AND WAIT FOR YOUR PULL REQUEST TO BE VERIFIED*\n\n*Thanks for choosing zim-bot*`,contextInfo: { externalAdReply:{title:"KEED BOT V4",body:"SUBSCRIBE NICE THE KEED OFC",showAdAttribution: true,mediaType:2,thumbnail: fs.readFileSync(`./Keed1.jpg`) ,mediaUrl:`https://youtu.be/KNu-gr2h7bo`, sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
   //anouncement by drips 
 }, nextMinutes * 300 * 1000);
 const send5Butlmg = async (jid , text = '' , footer = '', img, but = [], options = {}) =>{
@@ -1251,7 +1251,7 @@ if (tebaklagu.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  kuis = true
  jawaban = tebaklagu[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'GUESS THE MUSIC' }, type: 1 }], ` Guess The Song\n\nCorrect Answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'GUESS THE MUSIC' }, type: 1 }], ` Guess The Song\n\nCorrect Answer 🎉\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete tebaklagu[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
 }
@@ -1269,7 +1269,7 @@ if (tebakgambar.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  kuis = true
  jawaban = tebakgambar[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Guess The Picture' }, type: 1 }], ` Guess The Picture\n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Guess The Picture' }, type: 1 }], ` Guess The Picture\n\nCorrect answer 🎉\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete tebakgambar[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
 }
@@ -1278,7 +1278,7 @@ if (tebakkata.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  kuis = true
  jawaban = tebakkata[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'GUESS THE WORD' }, type: 1 }], `Guess The Word\n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'GUESS THE WORD' }, type: 1 }], `Guess The Word\n\nCorrect answer 🎉\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete tebakkata[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
 }
@@ -1288,7 +1288,7 @@ if (caklontong.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  jawaban = caklontong[m.sender.split('@')[0]]
     deskripsi = caklontong_desk[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lontong', buttonText: { displayText: 'GUESS LONTONG' }, type: 1 }], `Guess Lontong\n\nCorrect answer 🎉\n*${deskripsi}*\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lontong', buttonText: { displayText: 'GUESS LONTONG' }, type: 1 }], `Guess Lontong\n\nCorrect answer 🎉\n*${deskripsi}*\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete caklontong[m.sender.split('@')[0]]
 delete caklontong_desk[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
@@ -1298,7 +1298,7 @@ if (tebakkalimat.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  kuis = true
  jawaban = tebakkalimat[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kalimat', buttonText: { displayText: 'Guess The Sentence' }, type: 1 }], ` Guess The Sentence \n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kalimat', buttonText: { displayText: 'Guess The Sentence' }, type: 1 }], ` Guess The Sentence \n\nCorrect answer 🎉\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete tebakkalimat[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
 }
@@ -1307,7 +1307,7 @@ if (tebaklirik.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  kuis = true
  jawaban = tebaklirik[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lirik', buttonText: { displayText: 'Guess The Lyrics' }, type: 1 }], ` Guess The Lyrics \n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lirik', buttonText: { displayText: 'Guess The Lyrics' }, type: 1 }], ` Guess The Lyrics \n\nCorrect answer 🎉\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete tebaklirik[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
 }
@@ -1316,7 +1316,7 @@ if (tebaktebakan.hasOwnProperty(m.sender.split('@')[0]) && isCmd) {
  kuis = true
  jawaban = tebaktebakan[m.sender.split('@')[0]]
  if (budy.toLowerCase() == jawaban) {
-   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak tebakan', buttonText: { displayText: 'Riddles' }, type: 1 }], `Riddles \n\nCorrect answer 🎉\n\nWant to play again? ZIM BOT INC`, ZimBotInc.user.name, m)
+   await ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak tebakan', buttonText: { displayText: 'Riddles' }, type: 1 }], `Riddles \n\nCorrect answer 🎉\n\nWant to play again? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
    delete tebaktebakan[m.sender.split('@')[0]]
  } else reply('*WRONG ANSWER!*')
 }
@@ -1552,7 +1552,7 @@ switch(command) {
     ]
     }
     ]
-    ZimBotInc.sendList(m.chat, `Hi Chomie *${pushname}*`, `Please Select Below`, "CLICK", "ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ ", sectionnya, { quoted: m})
+    ZimBotInc.sendList(m.chat, `Hi Chomie *${pushname}*`, `Please Select Below`, "CLICK", "ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 ", sectionnya, { quoted: m})
     break
     case 'slime':
     case 'killslime':
@@ -1713,7 +1713,7 @@ var button = [
 		{ quickReplyButton: { displayText: `Owner`, id: `${prefix}owner` } }
 		]
         var hg = `「 Memancing 」\n\n ┊ *Capture:* ${ikannya}\n ┊ *Total Get:* ${ditangkap} *Fish*\n ┊ MONEY : $${coin}\n ┊ EXP : ${xp}Xp`
-        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: cing }, templateButtons: button, footer: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`, mentions: [sender] })
+        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: cing }, templateButtons: button, footer: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`, mentions: [sender] })
         .catch ((err) => reply(mess.error))
 }, 6000)
 setTimeout( () => {
@@ -1750,7 +1750,7 @@ var button = [
 		{ quickReplyButton: { displayText: `Owner`, id: `${prefix}owner` } }
 		]
         var hg = `「 DEATH 」\n\n *┊ Place*  ${ad}\n ┊ *MONEY :* $${money}\n ┊ *EXP :* ${adven}Xp`
-        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: hasm }, templateButtons: button, footer: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ ᴢɪᴍʙᴏᴛ`, mentions: [sender] })
+        ZimBotInc.sendMessage(from, { caption: hg, location: { jpegThumbnail: hasm }, templateButtons: button, footer: `ʀᴘɢ ɢᴀᴍᴇ ʙʏ 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓`, mentions: [sender] })
         .catch ((err) => reply(mess.error))
 }, 7000)
 setTimeout( () => {
@@ -2205,14 +2205,14 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
  }
  break
   /*  case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-   ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TfI3QYW.jpg' }, caption: `*𝗛𝗜 𝗕𝗥𝗢 ${m.pushName}*\n\n 𝗕𝗢𝗧 𝗥𝗘𝗡𝗧𝗔𝗟 𝗣𝗥𝗜𝗖𝗘\n 250rands Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/227634090203 (ZIM BOT OWNER)\n\n𝗗𝗢𝗡𝗔𝗧𝗘 : \n\n 𝗙𝗔𝗠𝗣𝗔𝗬 : https://i.imgur.com/TfI3QYW.jpg\n` }, { quoted: m })
+   ZimBotInc.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/TfI3QYW.jpg' }, caption: `*𝗛𝗜 𝗕𝗥𝗢 ${m.pushName}*\n\n 𝗕𝗢𝗧 𝗥𝗘𝗡𝗧𝗔𝗟 𝗣𝗥𝗜𝗖𝗘\n 250rands Per Group via Gpay/paytm/phonepe 1 Month\n\nFor more details, you can chat with the owner\nhttps://wa.me/227634090203 (𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 OWNER)\n\n𝗗𝗢𝗡𝗔𝗧𝗘 : \n\n 𝗙𝗔𝗠𝗣𝗔𝗬 : https://i.imgur.com/TfI3QYW.jpg\n` }, { quoted: m })
  }
  */
  break
  case 'sc': case 'script': case 'donate': case 'donasi': case 'donate': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
 
   teks = `
-  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/KNu-gr2h7bo\n*GITHUB:* https://github.com/zim-bot/zimbot-v4/fork\n\n*DONATE:* https://www.paypal.com/paypalme/zimbotinc`
+  *ZIM-BOT-V4*\n\n*YOUTUBE:* https://youtu.be/KNu-gr2h7bo\n*GITHUB:* https://github.com/zim-bot/KEED BOT V4/fork\n\n*DONATE:* https://www.paypal.com/paypalme/zimbotinc`
   let buttons = [
   {buttonId: `rpgmenu`, buttonText: {displayText: 'RPG'}, type: 1}
   ]
@@ -2225,9 +2225,9 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   headerType: 4,
   contextInfo:{externalAdReply:{
   title:"DONATE ME",
-  body: "DRIPS OFC", 
+  body: "NICE THE KEED OFC", 
   showAdAttribution: true,
-  thumbnail: fs.readFileSync("Zimbot/drips.jpg"),
+  thumbnail: fs.readFileSync("Zimbot/Keed1.jpg"),
   mediaType:1,
   mediaUrl: 'https://youtu.be/KNu-gr2h7bo',
   sourceUrl: "https://youtu.be/KNu-gr2h7bog"
@@ -2252,9 +2252,9 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   headerType: 4,
   contextInfo:{externalAdReply:{
   title:"DONATE ME",
-  body: "DRIPS OFC", 
+  body: "NICE THE KEED OFC", 
   showAdAttribution: true,
-  thumbnail: fs.readFileSync("Zimbot/drips.jpg"),
+  thumbnail: fs.readFileSync("Zimbot/Keed1.jpg"),
   mediaType:1,
   mediaUrl: 'https://youtu.be/KNu-gr2h7bo',
   sourceUrl: "https://youtu.be/KNu-gr2h7bog"
@@ -2319,7 +2319,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   await sleep(60000)
   if (tebaklagu.hasOwnProperty(m.sender.split('@')[0])) {
   console.log("Answer: " + result.jawaban)
-  ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'TEBAK LAGU' }, type: 1 }], `Time Out\nAnswer:  ${tebaklagu[m.sender.split('@')[0]]}\n\nWant to play? ZIM BOT INC`, ZimBotInc.user.name, m)
+  ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak lagu', buttonText: { displayText: 'TEBAK LAGU' }, type: 1 }], `Time Out\nAnswer:  ${tebaklagu[m.sender.split('@')[0]]}\n\nWant to play? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
   delete tebaklagu[m.sender.split('@')[0]]
   
   }
@@ -2333,7 +2333,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   await sleep(60000)
   if (tebakgambar.hasOwnProperty(m.sender.split('@')[0])) {
   console.log("Answer: " + result.jawaban)
-  ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Tebak Gambar' }, type: 1 }], `Time has run out\Answer:  ${tebakgambar[m.sender.split('@')[0]]}\n\nWant to play? ZIM BOT INC`, ZimBotInc.user.name, m)
+  ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak gambar', buttonText: { displayText: 'Tebak Gambar' }, type: 1 }], `Time has run out\Answer:  ${tebakgambar[m.sender.split('@')[0]]}\n\nWant to play? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
   delete tebakgambar[m.sender.split('@')[0]]
   
   }
@@ -2347,7 +2347,7 @@ Please @${m.mentionedJid[0].split`@`[0]} to type accept/reject`
   await sleep(60000)
   if (tebakkata.hasOwnProperty(m.sender.split('@')[0])) {
   console.log("Answer: " + result.jawaban)
-  ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'Tebak Kata' }, type: 1 }], `Time has run out\nAnswer:  ${tebakkata[m.sender.split('@')[0]]}\n\nWant to play? ZIM BOT INC`, ZimBotInc.user.name, m)
+  ZimBotInc.sendButtonText(m.chat, [{ buttonId: 'tebak kata', buttonText: { displayText: 'Tebak Kata' }, type: 1 }], `Time has run out\nAnswer:  ${tebakkata[m.sender.split('@')[0]]}\n\nWant to play? 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`, ZimBotInc.user.name, m)
   delete tebakkata[m.sender.split('@')[0]]
   
   }
@@ -2886,7 +2886,7 @@ case 'welcome': {
   break
 //-----GROUP---\\
 
-//--CREATED BY DRIPS--\\
+//--CREATED BY NICE--\\
 
 case 'antiwame': {
    if (!m.isGroup) throw mess.group
@@ -3306,11 +3306,11 @@ if (!regex1.test(args[0])) throw 'link!'
     // 'attachment; filenameq=ZidniGanz.zip'
     reply(`*Please wait, sending repository..*`)
     ZimBotInc.sendMessage(m.chat, { document: { url: url }, fileName: filename+'.zip', mimetype: 'application/zip' , quoted: m,contextInfo: { externalAdReply:{
-      title:"ZIM BOT V4",
-      body:"SUB DRIPS OFC",
+      title:"KEED BOT V4",
+      body:"SUB NICE THE KEED OFC",
       showAdAttribution: true,
       mediaType:2,
-      thumbnail: fs.readFileSync('./drips.jpg'),
+      thumbnail: fs.readFileSync('./Keed1.jpg'),
       mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
       sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
       }}
@@ -3326,11 +3326,11 @@ if (!regex1.test(args[0])) throw 'link!'
 				const ttrth = trut[Math.floor(Math.random() * trut.length)]
 				truteh = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
 			ZimBotInc.sendMessage(m.chat, {image: truteh, caption: '*Truth*\n\n'+ ttrth, quoted: m,contextInfo: { externalAdReply:{
-        title:"ZIM BOT V4",
-        body:"SUB DRIPS OFC",
+        title:"KEED BOT V4",
+        body:"SUB NICE THE KEED OFC",
         showAdAttribution: true,
         mediaType:2,
-        thumbnail: fs.readFileSync(`./drips.jpg`) ,
+        thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
         mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
         sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 break
@@ -3374,7 +3374,7 @@ break
   let btn = [{
  urlButton: {
   displayText: 'SUBSCRIBE',
-  url: 'https://youtube.ccom/c/DRIPSOFC'
+  url: 'https://youtube.ccom/c/NICE THE KEED OFC'
  }
   }, {
  callButton: {
@@ -3397,7 +3397,7 @@ break
   id: 'sc'
  }
   }]
- fatihgans = fs.readFileSync('./Zimbot/drips.jpg')
+ fatihgans = fs.readFileSync('./Zimbot/Keed1.jpg')
  let txt = `「 ZimBot Broadcast 」\n\n${text}`
  ZimBotInc.send5ButImg(i, txt, ZimBotInc.user.name, fatihgans, btn)
   }
@@ -3422,8 +3422,8 @@ for (let yoi of anu) {
   id: 'owner'
  }
   }]
- fatihgans = fs.readFileSync('./Zimbot/drips.jpg')
- let txt = `「 ZIM BOT BROADCAST 」\n\n${text}`
+ fatihgans = fs.readFileSync('./Zimbot/Keed1.jpg')
+ let txt = `「 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 BROADCAST 」\n\n${text}`
  ZimBotInc.send5ButImg(yoi, txt, `Broadcast By ${global.pengguna}`, fatihgans, btn)
 }
 reply('*Broadcast Success*')
@@ -3760,7 +3760,7 @@ if (data.medias[0].formattedSize.split('MB')[0] >= 100) return reply('*File Over
 cap = `
 *▊▊▊YOUTUBE SHORTS▊▊▊*
 
-*⬤▶━━━━━━━━━2:30*\n\n\n\n*⬤TITLE:* ${data.title}\n*⬤QUALITY:* ${data.medias[0].quality}\n*⬤SIZE:* ${data.medias[0].formattedSize}\n*⬤DURATION* ${data.duration}\n*⬤ID:* ${data.medias[0].cached}\n*⬤LINK:* ${data.url}\n\n*ZIM BOT INC*`
+*⬤▶━━━━━━━━━2:30*\n\n\n\n*⬤TITLE:* ${data.title}\n*⬤QUALITY:* ${data.medias[0].quality}\n*⬤SIZE:* ${data.medias[0].formattedSize}\n*⬤DURATION* ${data.duration}\n*⬤ID:* ${data.medias[0].cached}\n*⬤LINK:* ${data.url}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(data.thumbnail)
 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${cap}` }, { quoted: m })
 ZimBotInc.sendMessage(m.chat, { video: { url: data.medias[0].url }, jpegThumbnail:buf, caption: `*⬤TITLE:* ${data.title}\n*⬤QUALITY:* ${data.medias[0].quality}\n*⬤SIZE:* ${data.medias[0].formattedSize}` }, { quoted: m })  
@@ -3789,8 +3789,8 @@ replay(mess.wait)
  buttons: buttons,
  headerType: 4,
  contextInfo:{externalAdReply:{
- title:`ZIM BOT V4`,
- body:`DRIPS OFC`,
+ title:`𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒`,
+ body:`NICE THE KEED OFC`,
  showAdAttribution: true,
  thumbnail: global.thumb,
  mediaType:2,
@@ -3848,7 +3848,7 @@ ZimBotInc.sendMessage(from, {image:stallone},{quoted:m})
 break
 //---END HERE-------\\
 
-//CREATED BY DRIPS
+//CREATED BY NICE
 
 //------ANIME FESTURES------\\
 case 'cry': 
@@ -4181,7 +4181,7 @@ url: `${drips2.videos[0].url}`
 }, {
 urlButton: {
 displayText: `GITHUB`, 
-url: `https://github.com/zim-bot/zimbot-v4/fork`
+url: `https://github.com/zim-bot/KEED BOT V4/fork`
 }
 }, {
 quickReplyButton: {
@@ -4243,7 +4243,7 @@ url: `${anu.url}`
 }, {
 urlButton: {
 displayText: `GITHUB`, 
-url: `https://github.com/zim-bot/zimbot-v4/fork`
+url: `https://github.com/zim-bot/KEED BOT V4/fork`
 }
 }, {
 quickReplyButton: {
@@ -4281,15 +4281,15 @@ let caption = `
     ⟮ _*◉ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ◉*_ ⟯ 
    
 0.02━◉━━━━━━━━━━━━3.26
-      🔂   ⏪   ⏸️     ⏩  🎵\n\n*◉TITLE :* ${media.title}\n*◉FILESIZE :* ${media.filesizeF}\n*◉URL :* ${isUrl(text)}\n*◉EXT :* MP3\n*◉RESOLUTION :* ${args[1] || '128kbps'}\n\n*ZIM BOT INC*`
+      🔂   ⏪   ⏸️     ⏩  🎵\n\n*◉TITLE :* ${media.title}\n*◉FILESIZE :* ${media.filesizeF}\n*◉URL :* ${isUrl(text)}\n*◉EXT :* MP3\n*◉RESOLUTION :* ${args[1] || '128kbps'}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(media.thumb)
 ZimBotInc.sendMessage(m.chat, { image: { url: media.thumb }, jpegThumbnail:buf, caption: `${caption}` }, { quoted: m }).catch((err) => m.reply('*Sorry, the link you provided is not valid*'))   
 ZimBotInc.sendMessage(m.chat, {document:{url:media.dl_link}, mimetype:"audio/mpeg", fileName: `${media.title}.mp3`,  quoted: m, contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
-body:"SUB DRIPS OFC",
+title:"KEED BOT V4",
+body:"SUB NICE THE KEED OFC",
 showAdAttribution: true,
 mediaType:2,
-thumbnail: fs.readFileSync(`./drips.jpg`) ,
+thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
 mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
@@ -4306,15 +4306,15 @@ let caption = `
     ⟮ _*◉ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ◉*_ ⟯ 
    
 0.02━◉━━━━━━━━━━━━3.26
-      🔂   ⏪   ⏸️     ⏩  🎵*\n\n*◉TITLE :* ${media.title}\n*◉FILESIZE :* ${media.filesizeF}\n*◉URL :* ${isUrl(text)}\n*◉EXT :* MP3\n*◉RESOLUTION :* ${args[1] || '128kbps'}\n\n*ZIM BOT INC*`
+      🔂   ⏪   ⏸️     ⏩  🎵*\n\n*◉TITLE :* ${media.title}\n*◉FILESIZE :* ${media.filesizeF}\n*◉URL :* ${isUrl(text)}\n*◉EXT :* MP3\n*◉RESOLUTION :* ${args[1] || '128kbps'}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(media.thumb)
 ZimBotInc.sendMessage(m.chat, { image: { url: media.thumb }, jpegThumbnail:buf, caption: `${caption}` }, { quoted: m }).catch((err) => m.reply('*Sorry, the link you provided is not valid*'))   
 ZimBotInc.sendMessage(m.chat, {audio:{url:media.dl_link}, mimetype:"audio/mpeg", fileName: `${media.title}.mp3`,  quoted: m, contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
+title:"KEED BOT V4",
 body:"DRIPS",
 showAdAttribution: true,
 mediaType:2,
-thumbnail: fs.readFileSync(`./drips.jpg`) ,
+thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
 mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
@@ -4331,15 +4331,15 @@ var capti = `
     ⟮ _*◉ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅ◉*_ ⟯ 
    
 0.02━◉━━━━━━━━━━━━3.26
-      🔂   ⏪   ⏸️     ⏩  🎵\n\n*◉Title* : ${media.title}\n*◉FILESIZE* : ${media.filesizeF}\n*◉URL* : ${isUrl(text)}\n*◉EXT* : MP3\n*◉RESOLUTION* : ${args[1] || '360p'}\n\n*ZIM BOT INC*`
+      🔂   ⏪   ⏸️     ⏩  🎵\n\n*◉Title* : ${media.title}\n*◉FILESIZE* : ${media.filesizeF}\n*◉URL* : ${isUrl(text)}\n*◉EXT* : MP3\n*◉RESOLUTION* : ${args[1] || '360p'}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 var buf = await getBuffer(media.thumb)
 ZimBotInc.sendMessage(m.chat, { image: { url: media.thumb }, jpegThumbnail:buf, caption: `${capti}` }, { quoted: m })
 ZimBotInc.sendMessage(m.chat, { video: { url: media.dl_link }, jpegThumbnail:buf, mimetype: 'video/mp4', fileName: `${media.title}.mp4`, caption: `*Downloading From ${text}*` ,  quoted: m,contextInfo: { externalAdReply:{
-title:"ZIM BOT V4",
+title:"KEED BOT V4",
 body:"DRIPS",
 showAdAttribution: true,
 mediaType:2,
-thumbnail: fs.readFileSync(`./drips.jpg`) ,
+thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
 mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
@@ -4354,7 +4354,7 @@ cap = `
     ⟮ _*◉Yᴏᴜᴛᴜʙᴇ Sʜᴏʀᴛꜱ◉*_ ⟯ 
    
 0.02━◉━━━━━━━━━━━━3.26
-      🔂   ⏪   ⏸️     ⏩  🎵\n\n\n\n*◉TITLE:* ${data.title}\n*◉QUALITY:* ${data.medias[0].quality}\n*◉SIZE:* ${data.medias[0].formattedSize}\n*◉DURATION* ${data.duration}\n*◉ID:* ${data.medias[0].cached}\n*◉LINK:* ${data.url}\n\n*ZIM BOT INC*`
+      🔂   ⏪   ⏸️     ⏩  🎵\n\n\n\n*◉TITLE:* ${data.title}\n*◉QUALITY:* ${data.medias[0].quality}\n*◉SIZE:* ${data.medias[0].formattedSize}\n*◉DURATION* ${data.duration}\n*◉ID:* ${data.medias[0].cached}\n*◉LINK:* ${data.url}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(data.thumbnail)
 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${cap}` }, { quoted: m })
 ZimBotInc.sendMessage(m.chat, { video: { url: data.medias[0].url }, jpegThumbnail:buf, caption: `*◉TITLE:* ${data.title}\n*◉QUALITY:* ${data.medias[0].quality}\n*◉SIZE:* ${data.medias[0].formattedSize}` }, { quoted: m })  
@@ -4408,11 +4408,11 @@ const result4 = `
 *${botname}*`
 reply(`${result4}`)
 ZimBotInc.sendMessage(m.chat, { document : { url : baby1[0].link}, fileName : baby1[0].nama, mimetype: baby1[0].mime ,  quoted : mudratunha, contextInfo: { externalAdReply:{
-  title:"ZIM BOT V4",
-  body:"SUBSCRIBE DRIPS OFC",
+  title:"KEED BOT V4",
+  body:"SUBSCRIBE NICE THE KEED OFC",
   showAdAttribution: true,
   mediaType:2,
-  thumbnail: fs.readFileSync(`./drips.jpg`) ,
+  thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
   mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
@@ -4560,22 +4560,22 @@ case 'fbdl': case 'fb': case 'facebook': case 'fbvideo': {
 
          txt += `*◉DESCRIPTION :* ${data.description}\n`
 
-         txt += `*◉ID :* ZIM BOT INC\n`
+         txt += `*◉ID :* 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC\n`
 
          txt += `*◉URL :* ${text}\n\n`
 
-         txt += `*ZIM BOT INC*`                
+         txt += `*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`                
 
      buf = await getBuffer(data.thumbnail)    
 
      ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, {quoted: mudratunha})
      for (let i of data.result) {  
     ZimBotInc.sendMessage(m.chat, { video: { url: i.url }, jpegThumbnail:buf, mimetype: 'video/mp4', caption: `*◉ Quality :* ${i.quality}` ,  quoted: m,contextInfo: { externalAdReply:{
-      title:"ZIM BOT V4",
-      body:"SUBSCRIBE DRIPS OFC",
+      title:"KEED BOT V4",
+      body:"SUBSCRIBE NICE THE KEED OFC",
       showAdAttribution: true,
       mediaType:2,
-      thumbnail: fs.readFileSync(`./drips.jpg`) ,
+      thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
       mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
       sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
      
@@ -4638,7 +4638,7 @@ const sendm =  ZimBotInc.sendMessage(
 
    text: `${data.meta.title} *Here is the list of videos, click the button below to choose, here is the list of videos, click the button below to choose*`,
 
-   footer: `©ZIM BOT INC 2022`,
+   footer: `©𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 V4`,
 
    title: "**▊▊▊SAVEFROM DL▊▊▊**",
 
@@ -4739,12 +4739,12 @@ hydratedFooterText: `${botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/c/NICE THE KEED OFC'
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }, {
 quickReplyButton: {
@@ -4781,7 +4781,7 @@ case 'tiktok': case 'tiktoknowm': case 'tiktokwm': case 'tt': case 'ttnowm': cas
       var hadir = randomNomor(300)
        var memek = randomNomor(1000)                      
      let caption = `
-     *▊▊▊TIKTOK DL▊▊▊*\n\n*AUTHOR* : DRIPS\n*NICKNAME* : ${video.author.nickname}\n*CAPTION* : ${video.description}\n*QUALITY* : nowatermark\n*COMMENTS* : ${memek}\n*CREATE* ${hadir} Ago\n*LIKES* : ${hadi}\n*DISLIKE* : ${hadie}\n*SOURCE* : ${text}\n\n\n*ZIM BOT INC*`
+     *▊▊▊TIKTOK DL▊▊▊*\n\n*AUTHOR* : DRIPS\n*NICKNAME* : ${video.author.nickname}\n*CAPTION* : ${video.description}\n*QUALITY* : nowatermark\n*COMMENTS* : ${memek}\n*CREATE* ${hadir} Ago\n*LIKES* : ${hadi}\n*DISLIKE* : ${hadie}\n*SOURCE* : ${text}\n\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
      buf = await getBuffer(video.author.avatar)                
      ZimBotInc.sendMessage(m.chat, { image: { url: video.author.avatar }, jpegThumbnail:buf, caption: `${caption}` }, { quoted: m })
      ZimBotInc.sendMessage(m.chat, { video: { url: video.video.no_watermark }, jpegThumbnail:buf, mimetype: 'video/mp4', caption: `*Downloading From ${text}*` }, { quoted: m })               
@@ -4801,7 +4801,7 @@ var hadi = randomNomor(100)
 var hadie = randomNomor(200)     
 var hadir = randomNomor(300)
 var memek = randomNomor(1000)                      
-let caption = `*▊▊▊TIKTOK DL▊▊▊*\n\n*AUTHOR* : DRIPS\n*NICKNAME* : ${video.author.nickname}\n*CAPTION* : ${video.description}\n*COMMENTS* : ${memek}\n*CREATE* ${hadir} Ago\n*LIKES* : ${hadi}\n*DISLIKES* : ${hadie}\n*SOURCE* : ${text}\n\n\n*ZIM BOT INC*`
+let caption = `*▊▊▊TIKTOK DL▊▊▊*\n\n*AUTHOR* : DRIPS\n*NICKNAME* : ${video.author.nickname}\n*CAPTION* : ${video.description}\n*COMMENTS* : ${memek}\n*CREATE* ${hadir} Ago\n*LIKES* : ${hadi}\n*DISLIKES* : ${hadie}\n*SOURCE* : ${text}\n\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(video.author.avatar)                
 ZimBotInc.sendMessage(m.chat, { image: { url: video.author.avatar }, jpegThumbnail:buf, caption: `${caption}` }, { quoted: m })
 ZimBotInc.sendMessage(m.chat, { video: { url: video.video.no_watermark }, jpegThumbnail:buf, mimetype: 'video/mp4', caption: `*Downloading From ${text}*` }, { quoted: m })               
@@ -4838,7 +4838,7 @@ url: `${text}`
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }, {
 quickReplyButton: {
@@ -4913,7 +4913,7 @@ let urlnya = text
  var halo = 0		
 
 
-ZimBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTAGRAM DOWNLOADER 」----*\n\n*⬤ Username :* ${result.user.username}\n*⬤ Fullname :* ${result.user.fullName}\n*⬤ Followers :* ${result.user.followers}\n*⬤ Following :* ${result.user.following}\n*⬤ ID :* ${result.user.id}\n*⬤ Filetype :* ${result.medias[0].fileType}\n*⬤ Type :* ${result.medias[0].type}\n*⬤ Jumlah Media :* ${result.medias.length}\n*⬤ Url :* ${text}\n\n*ZIM BOT INC*` }, { quoted: m })	                                  	                      	            
+ZimBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTAGRAM DOWNLOADER 」----*\n\n*⬤ Username :* ${result.user.username}\n*⬤ Fullname :* ${result.user.fullName}\n*⬤ Followers :* ${result.user.followers}\n*⬤ Following :* ${result.user.following}\n*⬤ ID :* ${result.user.id}\n*⬤ Filetype :* ${result.medias[0].fileType}\n*⬤ Type :* ${result.medias[0].type}\n*⬤ Jumlah Media :* ${result.medias.length}\n*⬤ Url :* ${text}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*` }, { quoted: m })	                                  	                      	            
 
 
 for(let i of result.medias) {		
@@ -4973,7 +4973,7 @@ case 'ig2': case 'igdl2': case 'instagram2': {
 anu = await fetchJson(`https://api.akuari.my.id/downloader/igdl?link=${text}`)
 var oi = 1
 for(let i of anu.medias){                
-var txt = `*▊▊▊INSTA DL▊▊▊*\n\n*Username:* ${anu.user.username}\n*Fullname:* ${anu.user.fullName}\n*Followers:* ${anu.user.followers}\n*Type:* ${anu.medias[0].type}\n*Tipe:* ${anu.medias[0].fileType}\n*ID:* ${anu.user.id}\n*Jumlah Media:* ${oi++}\n*Url:* ${text}\n\n*ZIM BOT INC*`
+var txt = `*▊▊▊INSTA DL▊▊▊*\n\n*Username:* ${anu.user.username}\n*Fullname:* ${anu.user.fullName}\n*Followers:* ${anu.user.followers}\n*Type:* ${anu.medias[0].type}\n*Tipe:* ${anu.medias[0].fileType}\n*ID:* ${anu.user.id}\n*Jumlah Media:* ${oi++}\n*Url:* ${text}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 var buf = await getBuffer(anu.user.profilePicUrl)        
 ZimBotInc.sendMessage(m.chat, { image: { url: anu.user.profilePicUrl }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m }).catch((err) => m.reply('error'))
 ZimBotInc.sendMessage(m.chat, { video: { url: i.url }, jpegThumbnail:buf, caption: `${botname}`}, { quoted: m }).catch((err) => m.reply('error'))
@@ -5010,7 +5010,7 @@ let urlnya = text
 
 var halo = 0		
 
-ZimBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTAGRAM STORY 」----*\n\n*⬤ Username :* ${result.user.username}\n*⬤ Fullname :* ${result.user.fullName}\n*⬤ Followers :* ${result.user.followers}\n*⬤ Following :* ${result.user.following}\n*⬤ ID :* ${result.user.id}\n*⬤ Filetype :* ${result.medias[0].fileType}\n*⬤ Type :* ${result.medias[0].type}\n*⬤ Media :* ${result.medias.length}\n*⬤ Bio :* ${result.user.biography}\n\n*ZIM BOT INC*` }, { quoted: m })	                                  	                      	            
+ZimBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTAGRAM STORY 」----*\n\n*⬤ Username :* ${result.user.username}\n*⬤ Fullname :* ${result.user.fullName}\n*⬤ Followers :* ${result.user.followers}\n*⬤ Following :* ${result.user.following}\n*⬤ ID :* ${result.user.id}\n*⬤ Filetype :* ${result.medias[0].fileType}\n*⬤ Type :* ${result.medias[0].type}\n*⬤ Media :* ${result.medias.length}\n*⬤ Bio :* ${result.user.biography}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*` }, { quoted: m })	                                  	                      	            
 
 for(let i of result.medias) {
 
@@ -5056,7 +5056,7 @@ let urlnya = text
 bicil.instagramStoryv2(urlnya)
 .then(async(result) => {	  
 var halo = 1		
-ZimBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTA DOWNLOADER 」----*\n\n*⬤ Username :* ${result.user.username}\n*⬤ Fullname :* ${result.user.fullName}\n*⬤ Followers :* ${result.user.followers}\n*⬤ Following :* ${result.user.following}\n*⬤ ID :* ${result.user.id}\n*⬤ Jumlah Media :* ${halo++}\n*⬤ Bio :* ${result.user.biography}\n\n*ZIM BOT INC*` }, { quoted: m })	                                  	                      	            
+ZimBotInc.sendMessage(m.chat, { image: { url: result.user.profilePicUrl }, jpegThumbnail: await getBuffer(result.user.profilePicUrl), caption: `*----「 INSTA DOWNLOADER 」----*\n\n*⬤ Username :* ${result.user.username}\n*⬤ Fullname :* ${result.user.fullName}\n*⬤ Followers :* ${result.user.followers}\n*⬤ Following :* ${result.user.following}\n*⬤ ID :* ${result.user.id}\n*⬤ Jumlah Media :* ${halo++}\n*⬤ Bio :* ${result.user.biography}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*` }, { quoted: m })	                                  	                      	            
 for(let i of result.results) {		
 if(i.url.includes('mp4')){		           			    				
 let link = await getBuffer(i.sourceUrl)
@@ -5094,7 +5094,7 @@ txt += `*⬤TYPE :* ${data.medias[1].extension}\n`
 txt += `*⬤SIZE :* ${data.medias[1].formattedSize}\n`
 txt += `*⬤DURATION :* ${data.medias.length}\n`
 txt += `*⬤URL :* ${data.url}\n\n`
-txt += `*ZIM BOT INC*`
+txt += `*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(data.thumbnail)    
 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })
 for (let i of data.medias) {
@@ -5152,11 +5152,11 @@ txt += `*⬤QUALITY :* ${data.result[0].quality}\n`
 
 txt += `*⬤DESCRIPTION :* ${data.description}\n`
 
-txt += `*⬤ID :* ZIM BOT INC\n`
+txt += `*⬤ID :* 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC\n`
 
 txt += `*⬤URL :* ${text}\n\n`
 
-txt += `*ZIM BOT INC*`                
+txt += `*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`                
 
 buf = await getBuffer(data.thumbnail)    
 
@@ -5201,7 +5201,7 @@ txt += `*⬤QUALITY :* ${data.medias[1].quality}\n`
 txt += `*:⬤TYPE* ${data.medias[1].extension}\n`
 txt += `*⬤SIZE :* ${data.medias[1].formattedSize}\n`
 txt += `*⬤URL :* ${data.url}\n\n`
-txt += `*ZIM BOT INC*`
+txt += `*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`
 buf = await getBuffer(data.thumbnail)    
 ZimBotInc.sendMessage(m.chat, { image: { url: data.thumbnail }, jpegThumbnail:buf, caption: `${txt}` }, { quoted: m })              
 ZimBotInc.sendMessage(m.chat, { video: { url: data.medias[1].url }, jpegThumbnail:buf, caption: `*⬤ Quality :* ${data.medias[1].quality}`}, { quoted: m })                
@@ -5361,7 +5361,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -5380,7 +5380,7 @@ await sleep(1500)
 let btn = [{
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }]
 let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
@@ -5406,14 +5406,14 @@ case 'bcimage': case 'bcvideo': case 'bcaudio': {
 if (!isCreator) throw mess.owner
 if (!/video/.test(mime) && !/image/.test(mime) && !/audio/.test(mime)) throw `*Send/Reply Video/Audio/Image You Want to Broadcast With Caption* ${prefix + command}`
 let anu = await store.chats.all().map(v => v.id)
-let ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2022,status: 200, thumbnail: fs.readFileSync('./drips.jpg'), surface: 200, message: `ZIM-BOT-INC`, orderTitle: 'ZIM-BOT-INC', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
+let ftroli ={key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 2022,status: 200, thumbnail: fs.readFileSync('./Keed1.jpg'), surface: 200, message: `ZIM-BOT-INC`, orderTitle: 'ZIM-BOT-INC', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
 reply(`*Send Broadcast To* ${anu.length} *Group Chat, Time ${anu.length * 1.5} minutes*`)
 for (let i of anu) {
 await sleep(1500)
 let butoon = [{
 urlButton: {
 displayText: `GITHUB`,
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 },
 {
@@ -5531,7 +5531,7 @@ break
 
 //----END HERE------\\
 
-//CREATED BY ZIM BOT INC
+//CREATED BY 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC
 
 //----PHOT FILTER-----\\
 break
@@ -5580,18 +5580,18 @@ let media = await ZimBotInc.downloadAndSaveMediaMessage(quoted)
 let anu = await TelegraPh(media)
 let buf = await getBuffer(`https://violetics.pw/api/photofilter/${command}?apikey=beta&image=${anu}`)
 ZimBotInc.sendMessage(m.chat, { image: buf, jpegThumbnail:buf, caption: `PhotoFilter ${command}` ,  quoted: m, contextInfo: { externalAdReply:{
-  title:"ZIM BOT V4",
-  body:"SUBSCRIBE DRIPS OFC",
+  title:"KEED BOT V4",
+  body:"SUBSCRIBE NICE THE KEED OFC",
   showAdAttribution: true,
   mediaType:2,
-  thumbnail: fs.readFileSync(`./drips.jpg`) ,
+  thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
   mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
  
 //----END HERE-------\\
 
-//CREATED BY ZIM BOT INC
+//CREATED BY 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC
 
 //----TEXTPRO--------\\
 case 'candy':
@@ -5713,17 +5713,17 @@ if (/1917/.test(command)) link = 'https://textpro.me/1917-style-text-effect-onli
 if (/leaves/.test(command)) link = 'https://textpro.me/natural-leaves-text-effect-931.html'
 let anu = await maker.textpro(link, q)
 ZimBotInc.sendMessage(m.chat, { image: { url: anu }, caption: `Made by ${global.botname}` ,  quoted: m, contextInfo: { externalAdReply:{
-  title:"ZIM BOT V4",
-  body:"SUBSCRIBE DRIPS OFC",
+  title:"KEED BOT V4",
+  body:"SUBSCRIBE NICE THE KEED OFC",
   showAdAttribution: true,
   mediaType:2,
-  thumbnail: fs.readFileSync(`./drips.jpg`) ,
+  thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
   mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
 //----END HERE--------\\
 
-//CREATED BY DRIPS
+//CREATED BY NICE
 
 //----PHOTOOXY------\\
 case 'silk':  
@@ -5756,11 +5756,11 @@ case 'underwaterocean': {
 if (!text) throw `Example : ${prefix + command} text`
 anu = await getBuffer(`https://violetics.pw/api/photooxy/${command}?apikey=beta&text=${text}`)
 ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*PHOTO OXY ${command}*` , quoted: m, contextInfo: { externalAdReply:{
-  title:"ZIM BOT V4",
-  body:"SUBSCRIBE DRIPS OFC",
+  title:"KEED BOT V4",
+  body:"SUBSCRIBE NICE THE KEED OFC",
   showAdAttribution: true,
   mediaType:2,
-  thumbnail: fs.readFileSync(`./drips.jpg`) ,
+  thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
   mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
@@ -5768,7 +5768,7 @@ break
 
 //---END HERE------\\
 
-//CREATED BY DRIPS
+//CREATED BY NICE
 
 //----EPHOTO-------\\
 case '3d-wood': 
@@ -5785,17 +5785,17 @@ case 'summerysand': {
 if (!text) throw `Example : ${prefix + command} nama anime`
 anu = await getBuffer(`https://violetics.pw/api/ephoto360/${command}?apikey=beta&text=${text}`)
 ZimBotInc.sendMessage(m.chat, { image: anu, caption: `*EPHOTO ${command}*` ,  quoted: m, contextInfo: { externalAdReply:{
-  title:"ZIM BOT V4",
-  body:"SUBSCRIBE DRIPS OFC",
+  title:"KEED BOT V4",
+  body:"SUBSCRIBE NICE THE KEED OFC",
   showAdAttribution: true,
   mediaType:2,
-  thumbnail: fs.readFileSync(`./drips.jpg`) ,
+  thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
   mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
 sourceUrl: `https://youtu.be/KNu-gr2h7bo` }}}, {quoted: m})
 }
 break
 
-case 'once': case 'toonce': { //by DRIPS
+case 'once': case 'toonce': { //by NICE
 if (!quoted) throw 'Reply Image'
 if (/image/.test(mime)) {
 anu = await ZimBotInc.downloadAndSaveMediaMessage(quoted)
@@ -6119,7 +6119,7 @@ case 'igsearch':
       m.chat, 
       {
        text: `${ucapannya2} ${pushname} *Search Results From ${text} Click the button below to choose*`,
-       footer: `© ZIM BOT INC`,
+       footer: `© 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`,
        title: "*▊▊▊APK DOWNLOAD▊▊▊*",
        buttonText: "CLICK HERE",
        sections
@@ -6137,7 +6137,7 @@ case 'igsearch':
                          dhupi.rexdldown(`${text}`).then(async (anu) => {        
                          if (anu[0].size.split('MB')[0] >= 150) return reply('*File Over Limit* '+util.format(anu))
                          for (let i of anu) {    
-                         linkye = `*▊▊▊APK DOWNLOAD▊▊▊*\n\n*TITLE:* ${i.title}\n*UPDATE:* ${i.up}\n*VERSION:* ${i.vers}\n*FILESIZE:* ${i.size}\n*URL:* \n*DESCRIPTION:* ${i.desc}\n\n*ZIM BOT INC*`         
+                         linkye = `*▊▊▊APK DOWNLOAD▊▊▊*\n\n*TITLE:* ${i.title}\n*UPDATE:* ${i.up}\n*VERSION:* ${i.vers}\n*FILESIZE:* ${i.size}\n*URL:* \n*DESCRIPTION:* ${i.desc}\n\n*𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC*`         
                               ZimBotInc.sendMessage(m.chat, { image: await getBuffer(i.thumb), jpegThumbnail: await getBuffer(i.thumb), caption: `${linkye}` }, { quoted: m })
                               ZimBotInc.sendMessage(m.chat, {document: await getBuffer(i.link), mimetype: `application/vnd.android.package-archive`, fileName: `${i.title}`}, {quoted:m})  
                               }  
@@ -6463,7 +6463,7 @@ let { quotesAnime } = require('./lib/scraper')
    ]
    let buttonMessage = {
   text: `~_${result.quotes}_\n\nBy '${result.karakter}', ${result.anime}\n\n- ${result.up_at}`,
-  footer: 'ZIM BOT INC',
+  footer: '𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC',
   buttons: buttons,
   headerType: 2
    }
@@ -6786,7 +6786,7 @@ case 'sendkontak': case 'sendcontact': {
   let buttons = [
 { buttonId: 'stop', buttonText: { displayText: 'STOP' }, type: 1 }
   ]
-  await ZimBotInc.sendButtonText(m.chat, buttons, `_You Are Still In Anonymous Session, ZIM BOT INC To Terminate Your Anonymous Session_`, ZimBotInc.user.name, m)
+  await ZimBotInc.sendButtonText(m.chat, buttons, `_You Are Still In Anonymous Session, 𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC To Terminate Your Anonymous Session_`, ZimBotInc.user.name, m)
   throw false
    }
    let room = Object.values(this.anonymous).find(room => room.state === 'WAITING' && !room.check(m.sender))
@@ -6868,7 +6868,7 @@ other: function (who = '') {
  case 'public': {
    if (!isCreator) throw global.owner
    ZimBotInc.public = true
-   reply('𝗭𝗶𝗺 𝗯𝗼𝘁 𝗻𝗼𝘄 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗽𝘂𝗯𝗹𝗶𝗰')
+   reply('𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐈𝐒 𝐍𝐎𝐖 𝐎𝐍 𝗽𝘂𝗯𝗹𝗶𝗰')
  }// https://hardianto.xyz/api/rip?image=https://i.imgur.com/rANDwCP.jpeg&apikey=hardianto
  break
  case 'attp': {
@@ -6889,7 +6889,7 @@ other: function (who = '') {
  case 'self': {
    if (!isCreator) throw global.owner
    ZimBotInc.public = false
-   reply('𝗭𝗶𝗺 𝗯𝗼𝘁 𝗻𝗼𝘄 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗮𝘀 𝗽𝗿𝗶𝘃𝗮𝘁𝗲')
+   reply('𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐈𝐒 𝐍𝐎𝐖 𝐎𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐄😎')
  }
  break
  case 'ping': case 'botstatus': case 'statusbot': {
@@ -6941,7 +6941,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
  break
  case 'owner': case 'creator': {
  ZimBotInc.sendContact(m.chat, global.pemilik, m)
-const devsound = fs.readFileSync('./Zimbot/bot.mp3')
+const devsound = fs.readFileSync('./Zimbot/Keed.wav')
 ZimBotInc.sendMessage(m.chat, { audio: devsound, mimetype: 'audio/mp4', ptt: true, quoted: mudratunha})
  }
  
@@ -6969,7 +6969,7 @@ latensie = speed() - timestampe
   anu = `
 *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
-┌───〔 *_◉ᴀʙᴏᴜᴛ◉_* 〕
+┌───〔 *_◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉_* 〕
 ┊ *❗ᴏꜱ ʀᴇʟᴇᴀꜱᴇ:* ${os.release()}
 ┊ *❕ᴏꜱ ᴛʏᴘᴇ:*   ${os.type()}
 ┊ *❗ᴅɪʀᴇᴄᴛᴏʀʏ:*  ${os.homedir()}
@@ -7000,7 +7000,7 @@ latensie = speed() - timestampe
 `
 const aliveer = fs.readFileSync('./Zimbot/alive.mp3')
 ZimBotInc.sendMessage(m.chat, { audio: aliveer, mimetype: 'audio/mp4', ptt: true, quoted: mudratunha})
-huso = await getBuffer(picak+'ZIM BOT IS ALIVE')
+huso = await getBuffer(picak+'𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 IS ALIVE')
 let message = await prepareWAMessageMedia({ image: huso, jpegThumbnail:huso }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 templateMessage: {
@@ -7011,12 +7011,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{
 urlButton: {
 displayText: 'SUBSCRIBE',
-url: 'https://www.youtube.com/c/DRIPSOFC'
+url: 'https://www.youtube.com/c/NICE THE KEED OFC'
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }, {
 quickReplyButton: {
@@ -7071,8 +7071,8 @@ case 'listmenu':
   m.chat, 
   {
   text: `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 ┌───〔 *_◉ᴜsᴇʀ ɪɴғᴏ◉_* 〕
 ┊ *NAME:* ${pushname}
@@ -7091,7 +7091,7 @@ case 'listmenu':
 ┊ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${Object.keys(global.db.users).length}
 └───────────●
 `,
-  footer: `ZIM BOT INC`,
+  footer: `𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`,
   title: `*LIST MENU*`,
   jpegThumbnail: buffer,
   buttonText: "CLICK HERE",
@@ -7172,7 +7172,7 @@ case 'setmenu': {
  `
  *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
- ┌───〔 *_◉ᴀʙᴏᴜᴛ◉_* 〕
+ ┌───〔 *_◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉_* 〕
  ┊ *❗ᴏꜱ ʀᴇʟᴇᴀꜱᴇ:* ${os.release()}
  ┊ *❕ᴏꜱ ᴛʏᴘᴇ:*   ${os.type()}
  ┊ *❗ᴅɪʀᴇᴄᴛᴏʀʏ:*  ${os.homedir()}
@@ -7187,10 +7187,10 @@ case 'setmenu': {
  └───────────●
         `,
          buttonText: "SET MENU",
-         footerText: "ZIM BOT INC 4",
+         footerText: "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC 4",
          listType: "SINGLE_SELECT",
          sections: [{
-       "title": "ZIM BOT INC",
+       "title": "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC",
        "rows": [
        {
        "title": "TEMPLATE ZIM-BOT",
@@ -7200,7 +7200,7 @@ case 'setmenu': {
        ]
        },
        {
-       "title": "ZIM BOT V4",
+       "title": "𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒",
        "rows": [
        {
        "title": "TEMPLATE IMAGE",
@@ -7265,7 +7265,7 @@ latensie = speed() - timestampe
 anu = `
 *ᴜᴘᴛɪᴍᴇ :* ${runtime(process.uptime())}
 
-┌───〔 *_◉ᴀʙᴏᴜᴛ◉_* 〕
+┌───〔 *_◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉_* 〕
 ┊ *❗ᴏꜱ ʀᴇʟᴇᴀꜱᴇ:* ${os.release()}
 ┊ *❕ᴏꜱ ᴛʏᴘᴇ:*   ${os.type()}
 ┊ *❗ᴅɪʀᴇᴄᴛᴏʀʏ:*  ${os.homedir()}
@@ -7322,7 +7322,7 @@ anu = `
 ┊🪨shortlinkcuttly -url-
 ┊🪨shortlinkisgd -url-
 ┊🪨brainly -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_◉ᴏᴡɴᴇʀᴍᴇɴᴜ◉_* 〕
@@ -7349,7 +7349,7 @@ anu = `
 ┊🪨public
 ┊🪨self
 ┊🪨grouponly
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_◉ɢʀᴏᴜᴘᴍᴇɴᴜ◉_* 〕
@@ -7395,7 +7395,7 @@ anu = `
 ┊🪨demote -admin-
 ┊🪨promote -admin-
 ┊🪨editinfo -admin-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_◉ᴛᴇxᴛᴘʀᴏᴍᴇɴᴜ◉_* 〕
@@ -7455,7 +7455,7 @@ anu = `
 ┊🪨glue -text-
 ┊🪨1917 -text-
 ┊🪨leaves -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_ᴅᴏᴡɴʟᴏᴀᴅᴍᴇɴᴜ_* 〕
@@ -7505,7 +7505,7 @@ anu = `
 ┊🪨igtv -link-
 ┊🪨fbmp3 -link-
 ┊🪨ytdl -link-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_ᴘʜᴏᴛꜰɪʟᴛᴇʀᴍᴇɴᴜ_* 〕
@@ -7547,7 +7547,7 @@ anu = `
 ┊🪨hdr -photo-
 ┊🪨viewfilter -photo-
 ┊🪨warmsunset -photo-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_ɴꜱꜰᴡᴍᴇɴᴜ_* 〕
@@ -7571,7 +7571,7 @@ anu = `
 ┊🪨yuri
 ┊🪨thighs
 ┊🪨tentacles
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_ᴀɴɪᴍᴇᴍᴇɴᴜ_* 〕
@@ -7616,7 +7616,7 @@ anu = `
 ┊🪨awoo2
 ┊🪨animewall2
 ┊🪨searchanime -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_ꜱᴇᴀʀᴄʜᴍᴇɴᴜ_* 〕
@@ -7646,7 +7646,7 @@ anu = `
 ┊🪨searchgroups -query-
 ┊🪨qoutesanime -query-
 ┊🪨gmsarena -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 ┌───〔*_◉ᴇᴘʜᴏᴛᴏ-ᴍᴇɴᴜ◉_*〕
 ┊🪨3d-wood
@@ -7682,7 +7682,7 @@ anu = `
 ┊🪨smeme -media-
 ┊🪨stickermeme -media-
 ┊🪨swm -sticker-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 ┌───〔 *_◉ᴅᴀᴛᴀʙᴀꜱᴇᴍᴇɴᴜ◉_* 〕
 ┊🪨addmsg -msg-
@@ -7692,7 +7692,7 @@ anu = `
 ┊🪨setcmd -msg-
 ┊🪨delcmd -msg-
 ┊🪨listcmd -msg-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 ┌───〔 *_◉Photooxyᴍᴇɴᴜ◉_* 〕
 ┊🪨silk -text-
@@ -7720,7 +7720,7 @@ anu = `
 ┊🪨yellowroses -text-
 ┊🪨wolfmetal -text-
 ┊🪨underwaterocean -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
 
 ┌───〔 *_◉ᴍᴇɴᴜ ʀᴘɢ◉_* 〕
@@ -7753,12 +7753,12 @@ anu = `
     let btn = [{
         urlButton: {
             displayText: 'SUBSCRIBE',
-            url: 'https://www.youtube.com/c/DRIPSOFC'
+            url: 'https://www.youtube.com/c/NICE THE KEED OFC'
         }
     }, {
         urlButton: {
             displayText: 'GITHUB',
-            url: 'https://github.com/zim-bot/zimbot-v4/fork'
+            url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
         }
     }, {
         quickReplyButton: {
@@ -7788,12 +7788,12 @@ anu = `
     hydratedButtons: [{
     urlButton: {
     displayText: 'SUBSCRIBE',
-    url: 'https://www.youtube.com/c/DRIPSOFC'
+    url: 'https://www.youtube.com/c/NICE THE KEED OFC'
     }
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/zim-bot/zimbot-v4/fork'
+    url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
     }
     }, {
     quickReplyButton: {
@@ -7826,12 +7826,12 @@ anu = `
     hydratedButtons: [{
     urlButton: {
     displayText: 'SUBSCRIBE',
-    url: 'https://www.youtube.com/c/DRIPSOFC'
+    url: 'https://www.youtube.com/c/NICE THE KEED OFC'
     }
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/zim-bot/zimbot-v4/fork'
+    url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
     }
     }, {
     quickReplyButton: {
@@ -7864,12 +7864,12 @@ anu = `
     hydratedButtons: [{
     urlButton: {
     displayText: 'SUBSCRIBE',
-    url: 'https://www.youtube.com/c/DRIPSOFC'
+    url: 'https://www.youtube.com/c/NICE THE KEED OFC'
     }
     }, {
     urlButton: {
     displayText: 'GITHUB',
-    url: 'https://github.com/zim-bot/zimbot-v4/fork'
+    url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
     }
     }, {
     quickReplyButton: {
@@ -7899,7 +7899,7 @@ anu = `
         }
         
     var buffer = await getBuffer(ppuser)
-    const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://www.youtube.com/c/DRIPSOFC` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/zim-bot/zimbot-v4/fork` } },
+    const buttonsDefault = [{ urlButton: { displayText: `SUBSCRIBE`, url : `https://www.youtube.com/c/NICE THE KEED OFC` } }, { urlButton: { displayText: `GITHUB`, url : `https://github.com/zim-bot/KEED BOT V4/fork` } },
     {					
       quickReplyButton: {
       displayText: 'SPEED',
@@ -7922,17 +7922,17 @@ anu = `
     document: fs.readFileSync('./lib/tes.xlsx'),
     mimetype: dripsee,
     jpegThumbnail: buffer,
-    fileName: `ZIMBOT-V4`,
+    fileName: `KEED BOT V4`,
     fileLength: 99999999999999,
     templateButtons: buttonsDefault,
-    footer: `©ZIM BOT INC 2022`,
+    footer: `©𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 V4`,
     headerType: 4,
     contextInfo: { externalAdReply:{
-      title:"ZIM BOT V4",
-      body:"DRIPS OFC",
+      title:"KEED BOT V4",
+      body:"NICE THE KEED OFC",
       showAdAttribution: true,
       mediaType:2,
-      thumbnail: fs.readFileSync(`./drips.jpg`) ,
+      thumbnail: fs.readFileSync(`./Keed1.jpg`) ,
       mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
     sourceUrl: `https://youtu.be/KNu-gr2h7bo`
     }}}, {quoted:m})
@@ -7947,7 +7947,7 @@ anu = `
     let startnum = 0
     
     for (let x of listmenu) {
-    const list = {title: 'MENU NUMBER ' + nombor++,                                                                             //by drips
+    const list = {title: 'MENU NUMBER ' + nombor++,                                                                             //by NICE
     rows: [
     {
     title: `${listmenuu[startnum++]}`,
@@ -7962,8 +7962,8 @@ anu = `
     m.chat, 
     {
     text: `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 ┌───〔 *_◉ᴜsᴇʀ ɪɴғᴏ◉_* 〕
 ┊ *NAME:* ${pushname}
@@ -7982,7 +7982,7 @@ anu = `
 ┊ *ᴛᴏᴛᴀʟ ᴜsᴇʀs:* ${Object.keys(global.db.users).length}
 └───────────●
 `,
-    footer: `ZIM BOT INC`,
+    footer: `𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 INC`,
     title: `*LIST MENU*`,
     jpegThumbnail: buffer,
     buttonText: "CLICK HERE",
@@ -7997,25 +7997,25 @@ anu = `
       var buffer = await getBuffer(ppuser)
       let buttons = [
         {buttonId: `sc`, buttonText: {displayText: 'SOURCE CODE'}, type: 1},
-        {buttonId: `owner`, buttonText: {displayText: 'OWNER'}, type: 1},
+        {buttonId: `owner`, buttonText: {displayText: 'KEED BOT OWNER'}, type: 1},
         {buttonId: `rpgmenu`, buttonText: {displayText: '©RPG MENU'}, type: 1},
         ]
         let buttonMessage = {
         document: fs.readFileSync('./lib/tes.xlsx'),
         mimetype: dripsee,
         jpegThumbnail:buffer,
-        fileName: `MENU V4`,
+        fileName: `KEED BOT MENU V4`,
         fileLength: 99999999999999,
         caption: anu,
-        footer: `©ZIM BOT INC 2022`,
+        footer: `©𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 V4`,
         buttons: buttons,
         headerType: 4,
         contextInfo: { externalAdReply:{
-        title:"ZIM BOT V4",
-        body:"SUB DRIPS OFC",
+        title:"KEED BOT V4",
+        body:"SUB NICE THE KEED OFC",
         showAdAttribution: true,
         mediaType:2,
-        thumbnail: fs.readFileSync('./drips.jpg'),
+        thumbnail: fs.readFileSync('./Keed1.jpg'),
         mediaUrl:`https://youtu.be/KNu-gr2h7bo`, 
         sourceUrl: `https://youtu.be/KNu-gr2h7bo`,
         }}
@@ -8029,11 +8029,11 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'OWNER MENU')
 ram3 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram3}
@@ -8065,7 +8065,7 @@ anu = `
 ┊🪨public
 ┊🪨self
 ┊🪨grouponly
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8077,12 +8077,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
@@ -8097,11 +8097,11 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'DATABASE MENU')
 ram4 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram4}
@@ -8117,7 +8117,7 @@ anu = `
 ┊🪨setcmd -msg-
 ┊🪨delcmd -msg-
 ┊🪨listcmd -msg-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8129,12 +8129,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
@@ -8149,11 +8149,11 @@ case 'photooxymenu': {
   buffer = await getBuffer(picak+'PHOTOOXY MENU')
   ram5 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram5}
@@ -8187,7 +8187,7 @@ case 'photooxymenu': {
 ┊🪨yellowroses -text-
 ┊🪨wolfmetal -text-
 ┊🪨underwaterocean -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8199,12 +8199,12 @@ case 'photooxymenu': {
   hydratedButtons: [{        
   "urlButton": {
   "displayText": "SUBSCRIBE",
-  "url": "https://www.youtube.com/c/DRIPSOFC"
+  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/zim-bot/zimbot-v4/fork'
+  url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
   }
   }
   ]
@@ -8219,11 +8219,11 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'GROUP MENU')
 ram0 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram0}
@@ -8274,7 +8274,7 @@ anu = `
 ┊🪨demote -admin-
 ┊🪨promote -admin-
 ┊🪨editinfo -admin-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8286,12 +8286,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
@@ -8306,11 +8306,11 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'TEXTPRO MENU')
 ram11 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu = `
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram11}
@@ -8375,7 +8375,7 @@ anu = `
 ┊🪨glue -text-
 ┊🪨1917 -text-
 ┊🪨leaves -text-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8387,12 +8387,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
@@ -8407,11 +8407,11 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'DOWNLOAD MENU')
 ram22 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram22}
@@ -8467,7 +8467,7 @@ anu =`
 ┊🪨igtv -link-
 ┊🪨fbmp3 -link-
 ┊🪨ytdl -link-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8479,12 +8479,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
@@ -8499,11 +8499,11 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'PHOTOFILTER MENU')
 ram30 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram30}
@@ -8551,7 +8551,7 @@ anu =`
 ┊🪨hdr -photo-
 ┊🪨viewfilter -photo-
 ┊🪨warmsunset -photo-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 `
 let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8563,12 +8563,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
@@ -8583,11 +8583,11 @@ case 'nsfwmenu':{
   buffer = await getBuffer(picak+'NSFW MENU')
   ram35 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram35}
@@ -8617,7 +8617,7 @@ case 'nsfwmenu':{
 ┊🪨yuri
 ┊🪨thighs
 ┊🪨tentacles
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8629,12 +8629,12 @@ case 'nsfwmenu':{
   hydratedButtons: [{        
   "urlButton": {
   "displayText": "SUBSCRIBE",
-  "url": "https://www.youtube.com/c/DRIPSOFC"
+  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/zim-bot/zimbot-v4/fork'
+  url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
   }
   }
   ]
@@ -8649,11 +8649,11 @@ case 'animemenu':{
   ram40 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   buffer = await getBuffer(picak+'ANIME MENU')
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram40}
@@ -8704,7 +8704,7 @@ case 'animemenu':{
 ┊🪨awoo2
 ┊🪨animewall2
 ┊🪨searchanime -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8716,12 +8716,12 @@ case 'animemenu':{
   hydratedButtons: [{        
   "urlButton": {
   "displayText": "SUBSCRIBE",
-  "url": "https://www.youtube.com/c/DRIPSOFC"
+  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/zim-bot/zimbot-v4/fork'
+  url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
   }
   }
   ]
@@ -8736,11 +8736,11 @@ case 'convertmenu': {
   ram70 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   buffer = await getBuffer(picak+'CONVERT MENU')
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram70}
@@ -8769,7 +8769,7 @@ case 'convertmenu': {
 ┊🪨smeme -media-
 ┊🪨stickermeme -media-
 ┊🪨swm -sticker-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8781,12 +8781,12 @@ case 'convertmenu': {
   hydratedButtons: [{        
   "urlButton": {
   "displayText": "SUBSCRIBE",
-  "url": "https://www.youtube.com/c/DRIPSOFC"
+  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/zim-bot/zimbot-v4/fork'
+  url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
   }
   }
   ]
@@ -8801,12 +8801,12 @@ case 'toolmenu': {
   buffer = await getBuffer(picak+'TOOL MENU')
   ram90 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram90}
@@ -8830,7 +8830,7 @@ case 'toolmenu': {
 ┊🪨shortlinkcuttly -url-
 ┊🪨shortlinkisgd -url-
 ┊🪨brainly -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
   const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -8842,12 +8842,12 @@ case 'toolmenu': {
   hydratedButtons: [{        
   "urlButton": {
   "displayText": "SUBSCRIBE",
-  "url": "https://www.youtube.com/c/DRIPSOFC"
+  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/zim-bot/zimbot-v4/fork'
+  url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
   }
   }
   ]
@@ -8862,12 +8862,12 @@ case 'searchmenu':{
   buffer = await getBuffer(picak+'SEARCH MENU')
   ram200 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
   anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram200}
@@ -8902,7 +8902,7 @@ case 'searchmenu':{
 ┊🪨searchgroups -query-
 ┊🪨qoutesanime -query-
 ┊🪨gmsarena -query-
-└───〔 *_ᴢɪᴍ ʙᴏᴛ ɪɴᴄ_* 〕
+└───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
 
   `
   let message = await prepareWAMessageMedia({ image: buffer, jpegThumbnail:buffer }, { upload: ZimBotInc.waUploadToServer })
@@ -8915,12 +8915,12 @@ case 'searchmenu':{
   hydratedButtons: [{        
   "urlButton": {
   "displayText": "SUBSCRIBE",
-  "url": "https://www.youtube.com/c/DRIPSOFC"
+  "url": "https://www.youtube.com/c/NICE THE KEED OFC"
   }
   }, {
   urlButton: {
   displayText: 'GITHUB',
-  url: 'https://github.com/zim-bot/zimbot-v4/fork'
+  url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
   }
   }
   ]
@@ -8935,12 +8935,12 @@ ZimBotInc.sendMessage(m.chat, { react: { text: `${global.reactmoji}`, key: m.key
 buffer = await getBuffer(picak+'EPHOTO MENU')
 ram250 = `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB`
 anu =`
-┌───〔 *_ᴢɪᴍ ʙᴏᴛ ᴠ4_* 〕
-┊ᴡᴇʟᴄᴏᴍᴇ
+┌───〔 *𝐊𝐄𝐄𝐃 𝐁𝐎𝐓 𝐕𝟒* 〕
+┊𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐖𝐄𝐒𝐋𝐄𝐘 𝐍𝐈𝐂𝐄 𝐓𝐇𝐄 𝐊𝐄𝐄𝐃
 └───────────●
 
 
-┌───〔 _*◉ᴀʙᴏᴜᴛ◉*_ 〕
+┌───〔 _*◉𝐔𝐒𝐄𝐅𝐔𝐋 𝐈𝐍𝐅𝐎◉*_ 〕
 ┊❗ɴᴀᴍᴇ :  ${pushname}
 ┊❕ɴᴜᴍʙᴇʀ : wa.me/${m.sender.split('@')[0]}
 ┊❗ʀᴀᴍ : ${ram250}
@@ -8972,12 +8972,12 @@ hydratedFooterText: `${global.botname}`,
 hydratedButtons: [{        
 "urlButton": {
 "displayText": "SUBSCRIBE",
-"url": "https://www.youtube.com/c/DRIPSOFC"
+"url": "https://www.youtube.com/c/NICE THE KEED OFC"
 }
 }, {
 urlButton: {
 displayText: 'GITHUB',
-url: 'https://github.com/zim-bot/zimbot-v4/fork'
+url: 'https://github.com/NiceThekeed/Keed-Bot-V4/fork'
 }
 }
 ]
